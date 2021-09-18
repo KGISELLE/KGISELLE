@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Giselle, a student of Frond-end Development 
+
+I love my name because it's a princess name, isn't it? I'm kidding, my name comes from a famous ballet performance, so that I love the fantasy world. I love animation and videogames world!!! 👋
+
+I'm studying Frond-end Develoment, at the moment I love CSS and design softwares.
+
+<iframe width="600" height = "420"
+src= "https://tenor.com/es/ver/himouto-umaru-computadora-nime-gif-9219480"></iframe>
 
 <!--
 **KGISELLE/KGISELLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
