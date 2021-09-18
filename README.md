@@ -1,11 +1,11 @@
-### Hi, I'm Giselle, a student of Frond-end Development!!! 👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<h2 style="color:red">Hi, I'm Giselle, a student of Frond-end Development!!! 👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 
-I ❤️ my name because it's a princess name, isn't it? I'm kidding, my name comes from a famous ballet performance, so that I ❤️ the fantasy world. <IMG SRC="https://64.media.tumblr.com/20fb19cbfbc331ebc4463f1c32995f1b/tumblr_po5nnjczef1va4s21o1_500.gifv" width="50">
+I ❤love my name because it's a princess name, isn't it? I'm kidding, my name comes from a famous ballet performance, so that I ❤love the fantasy world. <IMG SRC="https://64.media.tumblr.com/20fb19cbfbc331ebc4463f1c32995f1b/tumblr_po5nnjczef1va4s21o1_500.gifv" width="50">
 
 I ❤️ animation and videogames world!!! 
 
-I'm studying Frond-end Develoment, at the moment I ❤️ CSS and design softwares.
-<img align='right' src= "https://honeysanime.com/wp-content/uploads/2016/12/Danganronpa-Kibou-no-Gakuen-to-Zetsubou-no-Koukousei-The-Animation-wallpaper-Chihiro-Fujisaki.jpg" width="280">
+I'm studying Frond-end Develoment, at the moment I ❤ CSS and design softwares.
+<img align='right' src= "https://honeysanime.com/wp-content/uploads/2016/12/Danganronpa-Kibou-no-Gakuen-to-Zetsubou-no-Koukousei-The-Animation-wallpaper-Chihiro-Fujisaki.jpg" width="270">
 
 ```javascript
 const giselleB = {
