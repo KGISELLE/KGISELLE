@@ -1,12 +1,14 @@
 <h2>Hi, I'm Giselle, a student of Frond-end Development!!! 👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h2>
 
-I love my name because it's a princess name, isn't it? I'm kidding, my name comes from a famous ballet performance, so that I love the fantasy world. <IMG SRC="https://64.media.tumblr.com/20fb19cbfbc331ebc4463f1c32995f1b/tumblr_po5nnjczef1va4s21o1_500.gifv" width="50">
+I love my name because it's a princess name, isn't it? I'm kidding, my name comes from a famous ballet performance, so that I love the fantasy world.
 
-I ❤️ animation and videogames world!!! <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+I ❤️ animation and videogames world!!! 
 
-I'm studying Frond-end Develoment, at the moment I ❤ CSS and design softwares.
+I'm studying Frond-end Develoment, at the moment I ❤love CSS and design softwares.
   
 <img align='right' src= "https://honeysanime.com/wp-content/uploads/2016/12/Danganronpa-Kibou-no-Gakuen-to-Zetsubou-no-Koukousei-The-Animation-wallpaper-Chihiro-Fujisaki.jpg" width="260">
+  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const giselleB = {
@@ -16,6 +18,8 @@ const giselleB = {
   tools: ["Visual studio code", "Figma", "Balsamig", "Trello"]
 }
 ```
+  
+  ⭐️ From [@gis.beer.m](https://github.com/KGISELLE)
 
 <!--
 **KGISELLE/KGISELLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
