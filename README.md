@@ -1,10 +1,20 @@
-### Hi, I'm Giselle, a student of Frond-end Development 
+### Hi, I'm Giselle, a student of Frond-end Development!!! 👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-I love my name because it's a princess name, isn't it? I'm kidding, my name comes from a famous ballet performance, so that I love the fantasy world. I love animation and videogames world!!! 👋
+I ❤️ my name because it's a princess name, isn't it? I'm kidding, my name comes from a famous ballet performance, so that I ❤️ the fantasy world. <IMG SRC="https://64.media.tumblr.com/20fb19cbfbc331ebc4463f1c32995f1b/tumblr_po5nnjczef1va4s21o1_500.gifv" width="50">
 
-I'm studying Frond-end Develoment, at the moment I love CSS and design softwares.
+I ❤️ animation and videogames world!!! 
 
-<div class="tenor-gif-embed" data-postid="9219480" data-share-method="host" data-aspect-ratio="1.78571" data-width="100%"><a href="https://tenor.com/view/himouto-umaru-computadora-nime-gif-9219480">Himouto Umaru GIF</a>from <a href="https://tenor.com/search/himouto-gifs">Himouto GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+I'm studying Frond-end Develoment, at the moment I ❤️ CSS and design softwares.
+<img align='right' src= "https://honeysanime.com/wp-content/uploads/2016/12/Danganronpa-Kibou-no-Gakuen-to-Zetsubou-no-Koukousei-The-Animation-wallpaper-Chihiro-Fujisaki.jpg" width="280">
+
+```javascript
+const giselleB = {
+  pronouns: ["she", "her"],
+  askMeAbout: ["videogames", "anime", "food", "craftBeer", "coffee"],
+  code: ["Javascript", "HTML", "CSS"],
+  tools: ["Visual studio code", "Figma", "Balsamig", "Trello"]
+}
+```
 
 <!--
 **KGISELLE/KGISELLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
