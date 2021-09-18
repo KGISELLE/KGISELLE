@@ -15,7 +15,7 @@ I'm studying Frond-end Develoment, at the moment I ❤love CSS and design softwa
 ```javascript
 const giselleB = {
   pronouns: ["she", "her"],
-  askMeAbout: ["videogames", "anime", "food", "craftBeer", "coffee"],
+  askMeAbout: ["videogames", "anime", "food", "craftBeer", "coffee", "my cat-Gastón"],
   code: ["Javascript", "HTML", "CSS"],
   tools: ["Visual studio code", "Figma", "Balsamig", "Trello"]
 }
