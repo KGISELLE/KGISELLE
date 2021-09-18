@@ -1,4 +1,4 @@
-<h2><span style="color:red">Hi, I'm Giselle, a student of Frond-end Development!!!</span> 👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
+<h3>Hi, I'm Giselle, a student of Frond-end Development!!! 👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
 
 I love my name because it's a princess name, isn't it? I'm kidding, my name comes from a famous ballet performance, so that I love the fantasy world. <IMG SRC="https://64.media.tumblr.com/20fb19cbfbc331ebc4463f1c32995f1b/tumblr_po5nnjczef1va4s21o1_500.gifv" width="50">
 
