@@ -6,7 +6,7 @@ I love my name because it's a princess name, isn't it? I'm kidding, my name come
 
 I ❤️ animation and videogames world!!! 
 
-I'm studying Frond-end Develoment, at the moment I ❤love CSS and design softwares.
+I'm studying Frond-end Develoment, at the moment I ❤love CSS and design software.
   
 
 
