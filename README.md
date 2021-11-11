@@ -2,11 +2,11 @@
 ***
 <img align='right' src= "https://honeysanime.com/wp-content/uploads/2016/12/Danganronpa-Kibou-no-Gakuen-to-Zetsubou-no-Koukousei-The-Animation-wallpaper-Chihiro-Fujisaki.jpg" width="260">
 
-I love my name because it's a princess name, isn't it? I'm kidding, my name comes from a famous ballet performance, so that I love the fantasy world.
+I love my name because it's a princess name, isn't it? I'm kidding, my name comes from a famous ballet performance, so that I love everything that I think is art, like:
 
 I ❤️ animation and videogames world!!! 
 
-I'm studying Frond-end Develoment, at the moment I ❤love CSS and design software.
+I ❤love CSS and design software, this is why I decided to study Frond-end Develoment, I love making things come true with my own hands.
   
 
 
