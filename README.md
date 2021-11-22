@@ -20,7 +20,8 @@ I ❤love CSS and design software, this is why I decided to study Frond-end Deve
 const giselleB = {
   pronouns: ["she", "her"],
   askMeAbout: ["videogames", "anime", "food", "craftBeer", "coffee", "my cat-Gastón"],
-  code: ["Javascript", "HTML", "CSS"],
+  code: ["Javascript", "HTML", "CSS", "Bootstrap 5", "React"],
+  soonLearning: ["Node.js", "Vue.js"],
   tools: ["Visual studio code", "Figma", "Balsamig", "Trello"]
 }
 ```
