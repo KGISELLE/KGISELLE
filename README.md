@@ -1,4 +1,4 @@
-## Hi, I'm Giselle, a Frond-end Development student!!! 👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Hi, I'm Giselle, I´m Software Developer!!! 👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ***
 <img align='right' src= "https://honeysanime.com/wp-content/uploads/2016/12/Danganronpa-Kibou-no-Gakuen-to-Zetsubou-no-Koukousei-The-Animation-wallpaper-Chihiro-Fujisaki.jpg" width="260">
 
