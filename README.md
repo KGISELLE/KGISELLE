@@ -1,5 +1,5 @@
 ## Hi, I'm Giselle, I´m Software Developer!!! 👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-***
+
 I love my name because it's a princess name, isn't it? I'm kidding, my name comes from a famous ballet performance, so that I love everything that I think is art, like:
 
 I ❤️ animation and videogames world!!! 
