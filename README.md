@@ -1,4 +1,4 @@
-## Hi, I'm Giselle, Software Developer!!! 👩‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## I'm Giselle, Software Developer!!! 👩‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 💫 I love my name — not because it sounds like a princess (just kidding!) but because it comes from a famous ballet performance. That’s probably why I’m drawn to everything artistic.
 
