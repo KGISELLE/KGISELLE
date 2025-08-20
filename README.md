@@ -3,7 +3,8 @@
 💫 I love my name — not because it sounds like a princess (just kidding!) but because it comes from a famous ballet performance. That’s probably why I’m drawn to everything artistic.
 
 🎮 I’m passionate about animation and video games.
-🎨 I also love CSS and design tools, which inspired me to study Frontend Development. For me, coding is like bringing ideas to life with my own hands.
+🎨 I also love CSS and design tools, which inspired me to study Frontend Development. 
+👩‍💻👩‍🎨 For me, coding is like bringing ideas to life with my own hands.
 
 ***
 
