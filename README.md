@@ -1,12 +1,9 @@
-## Hi, I'm Giselle, I´m Software Developer!!! 👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Hi, I'm Giselle, Software Developer!!! 👨‍💻 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-I love my name because it's a princess name, isn't it? I'm kidding, my name comes from a famous ballet performance, so that I love everything that I think is art, like:
+💫 I love my name — not because it sounds like a princess (just kidding!) but because it comes from a famous ballet performance. That’s probably why I’m drawn to everything artistic.
 
-I ❤️ animation and videogames world!!! 
-
-I ❤love CSS and design software, this is why I decided to study Frond-end Develoment, I love making things come true with my own hands.
-  
-
+🎮 I’m passionate about animation and video games.
+🎨 I also love CSS and design tools, which inspired me to study Frontend Development. For me, coding is like bringing ideas to life with my own hands.
 
 ***
 
@@ -16,11 +13,35 @@ I ❤love CSS and design software, this is why I decided to study Frond-end Deve
 
 ```javascript
 const giselleB = {
-  pronouns: ["she", "her"],
-  askMeAbout: ["videogames", "anime", "food", "craftBeer", "coffee", "my cat-Gastón"],
-  code: ["Javascript", "HTML", "CSS", "Bootstrap 5", "React"],
-  soonLearning: ["Node.js", "Vue.js"],
-  tools: ["Visual studio code", "Figma", "Balsamig", "Trello"]
+  pronouns: ['she', 'her'],
+  askMeAbout: ['videogames', 'anime', 'food', 'craftBeer', 'coffee', 'my cats'],
+  technologies = {
+    frontEnd: {
+      languages: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
+      frameworks: ['React', 'Redux', 'Next.js'],
+      styling: ['Styled-components', 'Storybook']
+    },
+    backEnd: {
+      runtime: ['Node.js'],
+      apis: ['REST API']
+    },
+    design: {
+      tools: ['Figma']
+    },
+    versionControl: {
+      systems: ['Git', 'GitHub', 'Bitbucket'],
+      ciCd: ['Jenkins']
+    },
+    testingCollaboration: {
+      tools: ['Postman'],
+      projectManagement: ['Jira', 'Confluence']
+    },
+    agile: {
+      methodologies: ['Scrum', 'Kanban', 'Agile Methodologies'],
+      management: ['Project Management']
+    },
+  },
+  soonLearning: ["Angular", "Vue.js"],
 }
 ```
   
