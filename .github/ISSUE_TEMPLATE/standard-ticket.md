@@ -19,6 +19,7 @@ Explica la historia de usuario siguiendo el formato:
 
 ## 📝 Descripción  / Objetivo
 Describe el contexto del issue. Explica el propósito de esta tarea o historia y qué problema resuelve o qué meta busca cumplir.
+
 ---
 
 ## 🔨 Tareas / Actividades
